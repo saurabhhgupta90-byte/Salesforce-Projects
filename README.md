@@ -136,8 +136,3 @@ Salesforce Developer
 GitHub:
 https://github.com/saurabhhgupta90-byte
 
----
-
-## License
-
-This project is developed for learning, portfolio, and demonstration purposes.
